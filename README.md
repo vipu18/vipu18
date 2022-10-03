@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C programming**
 
-- 👨‍💻 All of my projects are available at <a href="vipanshu.netlify.app" target="blank">Website
+- 👨‍💻 All of my projects are available at <a href="vipanshu.netlify.app">Website</a>
 
 - 📫 How to reach me **vipanshu.suman@gmail.com**
 
