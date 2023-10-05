@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipu18" alt="vipu18" /></a> </p>
 
 
-- 🌱 I’m currently learning **C programming**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at my website (vipanshu.netlify.app)
 
