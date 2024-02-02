@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at my website (vipanshu.netlify.app)
+- 👨‍💻 All of my projects are available at my website (vipanshu.com)
 
 - ⚡ Fun fact **I believe in hard work.**
 
