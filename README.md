@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=vipu18&color=green)
+<h1 align="center">![](https://komarev.com/ghpvc/?username=vipu18&color=green)</h1>
 <h1 align="center">Hi 👋, I'm Vipanshu Suman</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
