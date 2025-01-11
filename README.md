@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipu18&show_icons=true&locale=en&layout=compact" alt="vipu18" /></p>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=vipu18&theme=onedark-duo&hide_border=true&hide_longest_streak=true)](https://github.com/vipu18)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vipu18)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipu18&show_icons=true&locale=en" alt="vipu18" /></p>
